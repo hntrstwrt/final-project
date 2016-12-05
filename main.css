@@ -21,3 +21,21 @@ p {
 .firstword {
   font-size: 30pt;
 }
+
+h1 {
+  font-family: 'Righteous', cursive;
+}
+
+h5 {
+  font-family: 'Droid Serif', serif;
+}
+
+blockquote {
+  font-family: 'Changa One', cursive;
+  font-size: 15pt;
+}
+
+.video-container {
+  max-height:inherit;
+  max-width: inherit;
+}
