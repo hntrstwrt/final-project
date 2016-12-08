@@ -1,18 +1,29 @@
+footer.page-footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #fbccb6 ;
+}
+
+.btn:hover, .btn-large:hover {
+  background-color: black;
+}
+
+.btn {
+  background-color: #fbccb6;
+}
+
 body {
-  background-color: #F68B58; 
+  background-color: #F68B58;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#hyperlink {
+  color: white;
+  text-decoration-color: white;
 }
 
 h1 {
   font-family: 'Righteous', cursive;
-}
-
-body {
-  font-family: "Open Sans", sans-serif;
-}
-
-.firstword {
-  font-size:5pt;
-  
 }
 
 p {
@@ -41,16 +52,55 @@ h1 {
 
 h5 {
   font-family: 'Droid Serif', serif;
+  
 }
 
+h7 {
+  font-family: 'Tinos', serif;
+  font-size: 13pt;
+}
 blockquote {
-  font-family: 'Changa One', cursive;
+  font-family: 'Bungee', cursive;
   font-size: 15pt;
-  text-decoration-color:black;
+  border-left: 5px solid black;
+  color: white;
 }
 
 .video-container {
   max-height:inherit;
   max-width: inherit;
 }
+
+#player {
+  margin-top:40px;
+}
+
+#name {
+  color: black
+}
+
+#caption {
+margin-left: 40px;
+}
+
+#card-title {
+  color:#F68B58
+}
+
+#capt {
+  margin-bottom: 0px;
+}
+
+#signup {
+  margin-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
   
