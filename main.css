@@ -1,3 +1,8 @@
+footer.page-footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: #DEB7C2 ;
+}
 body {
   font-family: "Open Sans", sans-serif;
 }
